@@ -1,6 +1,9 @@
 # roadmap.sh-Projects
 # Single-Page-CV
 # Prasanth Reddy Kasu - Full-Stack Developer CV
+## Demo
+You can view the live demo of the project at:
+[https://prasanth-reddy-kasu.github.io/Single-Page-CV/](https://prasanth-reddy-kasu.github.io/Single-Page-CV/)
 
 This repository contains a simple, responsive **CV** (Curriculum Vitae) page created using **HTML** and **CSS** to showcase **Prasanth Reddy Kasu**, a **Full Stack Developer** with expertise in various programming languages and technologies.
 
